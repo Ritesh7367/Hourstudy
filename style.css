@@ -201,10 +201,6 @@ button:hover{
         transform: translateX(0) scale(1);
     }
 }
-#study-image:hover{
-    transform: translateX(0) scale(1.02);
-    /* transition-duration: 0.7s; */
-}
 .content{
     margin: 80px 150px 80px 150px;
     display: flex;
@@ -557,9 +553,6 @@ button:hover{
     align-items: center;
     padding: 50px;
     padding-bottom: 0px;
-}
-#foot{
-    color: #3ec4f5;
 }
 .up{
     display: flex;
